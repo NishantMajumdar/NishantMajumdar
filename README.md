@@ -2,8 +2,9 @@
 ![Nishant Majumdar](https://cdn.dribbble.com/users/332946/screenshots/3296132/n.gif)
 
 # Nishant Majumdar
-**The Future of the Internet Rests here**
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=NishantMajumdar&show_icons=true&count_private=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />
 
+![dacord](https://discord.c99.nl/widget/theme-3/735739881741090879.png)
 
 
 ## Websites to visit
