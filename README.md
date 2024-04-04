@@ -9,7 +9,7 @@
 
 ## Websites to visit
 
- 1. http://nishweb.ml
+ 1. http://nishweb.tech
  2. http://youtube.nishwebplus.ml
  
 
