@@ -1,7 +1,9 @@
 
-![enter image description here](https://media2.giphy.com/media/RV1JqMucOK8uUQ4Tf4/giphy.gif?cid=6c09b952tckzhu80x55dxfgvfhe8jzrv6b3d261353ofdlwt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
 # Nishant Majumdar
+Full stack developer. Proficient in **NextJS** and **React**. Made multiple projects, some of which include games as well as mobile apps written in **React Native**. **Front-end** developer primarily. Have made **API services** as well.
+# 
 
+<img float="right" height="140em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=NishantMajumdar&show_icons=true&count_private=true&bg_color=00000000&title_color=7F7F7F&icon_color=7F7F7F&text_color=7F7F7F" />    ![dacord](https://discord.c99.nl/widget/theme-4/992773056277782539.png)     
 
 
 ## Websites to visit
@@ -15,10 +17,9 @@
  - Code
  - Video Editing
  - Tech
- - Music (piano)
 
 
-# The languages I use to code
+# The languages I use for projects
 
  - [x] HTML5
  - [x] CSS3
