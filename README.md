@@ -1,7 +1,7 @@
 # Nishant Majumdar
 ### Full-Stack Developer | IoT Enthusiast | HCI Researcher
 
-I am a Grade 12 student at **La Martiniere for Boys, Kolkata**, building high-performance applications that bridge the gap between hardware and software. I focus on **Next.js**, **C++**, and **Human-Computer Interaction (HCI)**.
+I am a student at **St Xavier's University, Kolkata**, building high-performance applications that bridge the gap between hardware and software. I focus on **Next.js**, **C++**, and **Human-Computer Interaction (HCI)**.
 
 ---
 
