@@ -8,7 +8,7 @@ I am a student at **St Xavier's University, Kolkata**, building high-performance
 ### Featured Project: EXYPNOS Tech Fest
 *Executive Board & Lead Developer* 
 
-Built the central platform for Kolkata's first student-led national tech fest. Also implemented infrastructure offline for various events.
+Built the central platform for Kolkata's first student-led national tech fest. Also implemented infrastructure offline for various events. The event was organized by La Martiniere for Boys.
 - **The Scale:** Managed registrations and events for **20+ schools** and **250+ students**.
 - **The Stack:** Next.js, Firebase/Firestore, Next-Auth, and a custom OpenAI Assistant.
 - **AI Integration:** Implemented a custom assistant using the **OpenAI API** to automate participant support.
